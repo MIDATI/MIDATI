@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Fronted-web developer de
+  Fronted-web developer en
   <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> 
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=MIDATI&color=blueviolet"> </p>
