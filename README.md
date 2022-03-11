@@ -6,17 +6,19 @@
 </p>
 
 <h1 align="center">
-  Fronted-web developer en
+  Frontend-web developer en
   <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> 
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=MIDATI&color=blueviolet"> </p>
 
 ## Sobre mi:
 
-Actualmente desarrolladora fullstack en proceso👩🏻‍💻
- con interés en el crecimiento del diseño web 📎🖌
-🤓Conocimientos en HTML5, CSS, JAVASCRIPT, REACT.JS y Metodología Scrum
-***
+<p> Actualmente desarrolladora fullstack en proceso👩🏻‍💻 <br>
+ con interés en el crecimiento del diseño web 📎🖌 <br>
+  🤓Conocimientos en HTML5, CSS, JAVASCRIPT, REACT.JS y Metodología Scrum <br> </p>
+  
+  
+
 <p><div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDATI&title_color=000&bg_color=ddc3d9&border_color=000&border_radius=12&hide_border=true"/></div> </p>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=MIDATI&title_color=000&bg_color=ddc3d9&border_radius=12"> </p>
